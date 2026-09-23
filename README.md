@@ -3,8 +3,8 @@ Travaux dirigés Python &amp; Data Sicence - UPJV
 
 # Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Prénom Nom
-**Formation :** L3 Économie / M1 Économie
+**Étudiant·e :** Tino Petit Massalon
+**Formation :** L3 Économie
 **Année :** 2026-2027
 
 ## Description
